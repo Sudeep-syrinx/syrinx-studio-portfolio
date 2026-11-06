@@ -2,11 +2,11 @@
 
 A sleek, high-performance, and fully responsive digital agency platform built with Next.js, TypeScript, Tailwind CSS, and Framer Motion. Engineered with dark/light mode support, schema-validated forms, and cohesive design components across all pages.
 
-### Light Mode
-![Syrinx Studio Portfolio Light](https://i.imgur.com/EcQFYtQ.png)
 
-### Dark Mode
-![Syrinx Studio Portfolio Dark](https://i.imgur.com/eIWffNk.png)
+
+
+
+
 
 ## 🌟 Features
 
